@@ -1,0 +1,111 @@
+{
+    "Kiana": [
+        "HerrscherOfFinality"
+    ],
+    "HerrscherOfFinality": [
+        "Alaya"
+    ],
+    "Mei": [
+        "HerrscherOfThunder",
+        "DrMei"
+    ],
+    "Kaslana": [
+        "Kiana",
+        "Kevin",
+        "Siegfried",
+        "Kallen"
+    ],
+    "Apocalypse": [
+        "Otto",
+        "Theresa"
+    ],
+    "Schariac": [
+        "Cecilia",
+        "Maria",
+        "Angela"
+    ],
+    "HerrscherOfOcean": [
+        "Jhana"
+    ],
+    "HerrscherOfSea": [
+        "Jhana"
+    ],
+    "HerrscherOfTheVoid": [
+        "SirinHoV",
+        "KyuushouHoV",
+        "KianaHoV"
+    ],
+    "HerrscherOfVoid": [
+        "HerrscherOfTheVoid"
+    ],
+    "SecondHerrscher": [
+        "HerrscherOfVoid"
+    ],
+    "FirstHerrscher": [
+        "Welt"
+    ],
+    "HerrscherKiana": [
+        "KianaHov",
+        "HerrscherofFinality"
+    ],
+    "CorruptedMei": [
+        "HerrscherOfThunder"
+    ],
+    "CoW": [
+        "CommanderOfWill"
+    ],
+    "HoT": [
+        "HerrscherOfThunder"
+    ],
+    "HoFi": [
+        "HerrscherOfFinality"
+    ],
+    "HoV": [
+        "HerrscherOfTheVoid"
+    ],
+    "Wendy": [
+        "HerrscherOfWind"
+    ],
+    "Nina": [
+        "HerrscherOfMetal"
+    ],
+    "HerrscherOfRocks": [
+        "HerrscherOfRock"
+    ],
+    "HerrscherOfRock": [
+        "Azta"
+    ],
+    "HerrscherOfBlood": [
+        "Salute"
+    ],
+    "Bronya": [
+        "HerrscherOfReason"
+    ],
+    "Herrscher": [
+        "Herrschers"
+    ],
+    "Herrschers": [
+        "HerrscherOfBlood",
+        "HerrscherOfFinality",
+        "HerrscherOfMetal",
+        "HerrscherOfReason",
+        "HerrscherOfRock",
+        "HerrscherOfTheVoid",
+        "HerrscherOfThunder",
+        "HerrscherOfWind",
+        "FirstHerrscher"
+    ],
+    "Wills": [
+        "AggregateOfWills",
+        "CommanderOfWill",
+        "WillOfAbyss"
+    ],
+    "Will": [
+        "Wills"
+    ],
+    "Honkai": [
+        "Wills",
+        "Herrschers",
+        "Zombie"
+    ]
+}
