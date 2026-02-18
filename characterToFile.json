@@ -1030,6 +1030,11 @@
         "58119abb-981f-47e4-ab97-7b00046adfe9.webp",
         "996329db-8018-4a69-8360-d469c6aa3c60.mp4"
     ],
+    "HerrscherOfMetal": [
+        "57069b96-76c9-4b32-904d-deaf8fa6a35a.png",
+        "53d3d0dd-f230-4b43-813d-b93ddb3c2108.png",
+        "8e04e73f-07d8-4125-85d5-cc950c7a8a88.png"
+    ],
     "HerrscherOfReason": [
         "229806f9-2de3-49c8-9c50-92e914cd1923.jpg",
         "8eaafae4-88c6-4409-b035-e46b6b94a7dc.webp",
@@ -3072,13 +3077,11 @@
     "Nina": [
         "7b8543e5-a611-40d0-9339-003cbd6ab56f.png",
         "889b477d-a9cd-4758-9c32-fb3e7b66bb52.jpg",
-        "57069b96-76c9-4b32-904d-deaf8fa6a35a.png",
         "43f6ffd4-d61f-4f51-a187-4e7512cd3eeb.png",
         "ebee07f1-e00d-4fdf-a4f7-f7d9154cfdf7.png",
         "1a5294e4-0e14-444d-9ac1-3ff07add77a4.png",
         "eeebb947-859d-490b-9fab-288b4d5c6388.png",
         "412eac93-5696-4e59-9395-cf4734e793c2.png",
-        "53d3d0dd-f230-4b43-813d-b93ddb3c2108.png",
         "269b3734-0644-4798-82e1-97171761832d.jpg",
         "fa7b2558-1676-4880-a2a8-108e0299501e.jpg",
         "cca0bfc6-b684-4e98-a0f4-3cc8cd9f0d99.jpg",
@@ -3086,8 +3089,7 @@
         "8d4bd50c-9172-4f5e-8028-97e6e1abd03b.webp",
         "03205ead-ae3d-4e46-9c3d-880a8bc2f2c2.jpg",
         "597f4859-65dd-4d3a-8ad2-0cbfeb4fac9b.png",
-        "05e4f035-3818-40f4-be29-ec974854a99a.png",
-        "8e04e73f-07d8-4125-85d5-cc950c7a8a88.png"
+        "05e4f035-3818-40f4-be29-ec974854a99a.png"
     ],
     "Ninti": [
         "4632640c-0440-42af-8244-db05128521a9.png",
@@ -4221,6 +4223,7 @@
         "2c328041-37d9-4c92-b93d-01f23ba1f471.mp4",
         "a38c5c0b-ef0c-4b70-87a5-18aa95024c35.png",
         "2fdd4eb8-e89e-4684-be18-7c1641a229e4.gif",
+        "f79eac0f-5402-4a57-bbf0-6b72b469ad26.gif",
         "6f0ebc42-935f-4fdc-af81-252c7ac4a178.png",
         "84bdf910-71b6-4d2d-9041-314063cebf26.jpg",
         "94803607-c004-4649-8621-ff649ec0f82b.webp",
@@ -5682,6 +5685,7 @@
         "1ef6ddb8-618d-43da-9290-0bfff45ae6ab.jpg",
         "f8e8008b-7d82-40f3-b0f6-6ada94b55728.mp4",
         "f28ec1a2-4917-4899-86fa-d9e52dd5ca5a.mp4",
+        "f79eac0f-5402-4a57-bbf0-6b72b469ad26.gif",
         "6f0ebc42-935f-4fdc-af81-252c7ac4a178.png",
         "eb35dbc7-4487-4418-8e05-cee79eeba4e9.gif",
         "5b4aa2c7-f0ff-40a9-88fb-651f289e97f2.png",
@@ -5969,7 +5973,8 @@
         "18862697-7e1f-4f99-b812-44864491c134.jpg",
         "90d70d1f-c1ff-4b95-9da0-221ca3b6b603.png",
         "c5c62ff7-37ef-492b-a59f-8f0bf28377ff.jpg",
-        "c6deb65e-4861-43b2-8d48-0f4c7ceab126.png"
+        "c6deb65e-4861-43b2-8d48-0f4c7ceab126.png",
+        "7e434150-c44b-42c5-84de-97ac426fdf21.jpg"
     ],
     "Yuna": [
         "2c328041-37d9-4c92-b93d-01f23ba1f471.mp4"
