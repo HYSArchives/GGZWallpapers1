@@ -1,13 +1,13 @@
 {
     "Kiana": [
-        "HerrscherOfFinality"
+        "Herrscher Kiana"
     ],
-    "HerrscherOfFinality": [
+    "Herrscher Of Finality": [
         "Alaya"
     ],
     "Mei": [
-        "HerrscherOfThunder",
-        "DrMei"
+        "Herrscher Of Thunder",
+        "Dr Mei"
     ],
     "Kaslana": [
         "Kiana",
@@ -24,81 +24,81 @@
         "Maria",
         "Angela"
     ],
-    "HerrscherOfOcean": [
+    "Herrscher Of Ocean": [
         "Jhana"
     ],
-    "HerrscherOfSea": [
+    "Herrscher Of Sea": [
         "Jhana"
     ],
-    "HerrscherOfTheVoid": [
-        "SirinHoV",
-        "KyuushouHoV",
-        "KianaHoV"
+    "Herrscher Of The Void": [
+        "Sirin Hov",
+        "Kyuushou Hov",
+        "Kiana Hov"
     ],
-    "HerrscherOfVoid": [
-        "HerrscherOfTheVoid"
+    "Herrscher Of Void": [
+        "Herrscher Of The Void"
     ],
-    "SecondHerrscher": [
-        "HerrscherOfVoid"
+    "Second Herrscher": [
+        "Herrscher Of Void"
     ],
-    "FirstHerrscher": [
+    "First Herrscher": [
         "Welt"
     ],
-    "HerrscherKiana": [
-        "KianaHov",
-        "HerrscherofFinality"
+    "Herrscher Kiana": [
+        "Kiana Hov",
+        "Herrscher Of Finality"
     ],
-    "CorruptedMei": [
-        "HerrscherOfThunder"
+    "Corrupted Mei": [
+        "Herrscher Of Thunder"
     ],
     "CoW": [
-        "CommanderOfWill"
+        "Commander Of Will"
     ],
     "HoT": [
-        "HerrscherOfThunder"
+        "Herrscher Of Thunder"
     ],
     "HoFi": [
-        "HerrscherOfFinality"
+        "Herrscher Of Finality"
     ],
     "HoV": [
-        "HerrscherOfTheVoid"
+        "Herrscher Of The Void"
     ],
     "Wendy": [
-        "HerrscherOfWind"
+        "Herrscher Of Wind"
     ],
     "Nina": [
-        "HerrscherOfMetal"
+        "Herrscher Of Metal"
     ],
-    "HerrscherOfRocks": [
-        "HerrscherOfRock"
+    "Herrscher Of Rocks": [
+        "Herrscher Of Rock"
     ],
-    "HerrscherOfRock": [
+    "Herrscher Of Rock": [
         "Azta"
     ],
-    "HerrscherOfBlood": [
+    "Herrscher Of Blood": [
         "Salute"
     ],
     "Bronya": [
-        "HerrscherOfReason"
+        "Herrscher Of Reason"
     ],
     "Herrscher": [
         "Herrschers"
     ],
     "Herrschers": [
-        "HerrscherOfBlood",
-        "HerrscherOfFinality",
-        "HerrscherOfMetal",
-        "HerrscherOfReason",
-        "HerrscherOfRock",
-        "HerrscherOfTheVoid",
-        "HerrscherOfThunder",
-        "HerrscherOfWind",
-        "FirstHerrscher"
+        "Herrscher Of Blood",
+        "Herrscher Of Finality",
+        "Herrscher Of Metal",
+        "Herrscher Of Reason",
+        "Herrscher Of Rock",
+        "Herrscher Of TheVoid",
+        "Herrscher Of Thunder",
+        "Herrscher Of Wind",
+        "First Herrscher"
     ],
     "Wills": [
-        "AggregateOfWills",
-        "CommanderOfWill",
-        "WillOfAbyss"
+        "Aggregate Of Wills",
+        "Commander Of Will",
+        "Will Of Abyss"
     ],
     "Will": [
         "Wills"
