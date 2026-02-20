@@ -37449,7 +37449,7 @@
     },
     "f2c6d2f4-7010-45df-919f-1d959e30a25c.mp4": {
         "Characters": [
-            "Bronya ",
+            "Bronya",
             "Himeko",
             "Jingfei",
             "Karin",
@@ -65355,6 +65355,66 @@
             580
         ],
         "FileSize": 85827,
+        "RepoNo": 2
+    },
+    "35865fcf-433d-4f4b-8b23-5a44302d2ed1.png": {
+        "Characters": [
+            "Karin"
+        ],
+        "FileExtension": ".png",
+        "FileDimensions": [
+            800,
+            1024
+        ],
+        "FileSize": 721633,
+        "RepoNo": 2
+    },
+    "14dd5615-6fae-47fc-95e5-78e387b79ce3.png": {
+        "Characters": [
+            "Arkria"
+        ],
+        "FileExtension": ".png",
+        "FileDimensions": [
+            800,
+            1024
+        ],
+        "FileSize": 741990,
+        "RepoNo": 2
+    },
+    "49cff1c6-69f5-424d-9a8b-8f0cf68db21d.png": {
+        "Characters": [
+            "Fu Hua"
+        ],
+        "FileExtension": ".png",
+        "FileDimensions": [
+            1800,
+            3200
+        ],
+        "FileSize": 7413709,
+        "RepoNo": 2
+    },
+    "8c746fa2-7f8e-4c76-9646-de8d378177d9.gif": {
+        "Characters": [
+            "Hokushin Mei"
+        ],
+        "FileExtension": ".gif",
+        "FileDimensions": [
+            500,
+            281
+        ],
+        "FileSize": 10203726,
+        "RepoNo": 2
+    },
+    "1cd2655c-84ac-49bc-8b63-312775453fe9.png": {
+        "Characters": [
+            "Laniaitte"
+        ],
+        "FileExtension": ".png",
+        "FileDimensions": [
+            800,
+            1024
+        ],
+        "FileSize": 717938,
         "RepoNo": 2
     }
 }
