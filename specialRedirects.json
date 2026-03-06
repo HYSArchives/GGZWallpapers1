@@ -117,5 +117,30 @@
     "Yae": [
         "Yae Sakura",
         "Rin"
+    ],
+    "Einzbern": [
+        "Chloe von Einzbern",
+        "Illya"
+    ],
+    "Von Einzbern": [
+        "Einzbern"
+    ],
+    "Madoka Magica": [
+        "Madoka",
+        "Homura",
+        "Sayaka",
+        "Mami",
+        "Kyoko Sakura"
+    ],
+    "Danganronpa": [
+        "Chiaki",
+        "Gundham Tanaka",
+        "Ibuki",
+        "Mikan",
+        "Monokuma",
+        "Nagito",
+        "Junko",
+        "Kirigiri",
+        "Naegi"
     ]
 }
