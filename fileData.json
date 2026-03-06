@@ -13637,7 +13637,7 @@
     },
     "34f2f5e2-8b96-4871-a15f-adb1f40ba407.webp": {
         "Characters": [
-            "None"
+            "Unknown"
         ],
         "FileExtension": ".webp",
         "FileDimensions": [
@@ -24261,7 +24261,8 @@
     },
     "54951182-9472-4971-8fc1-38b681b1a307.png": {
         "Characters": [
-            "None"
+            "None",
+            "Moonlight Throne"
         ],
         "FileExtension": ".png",
         "FileDimensions": [
@@ -42015,6 +42016,7 @@
             "Seele",
             "Sin",
             "Theresa",
+            "Yssring",
             "Unknown"
         ],
         "FileExtension": ".jpeg",
