@@ -79560,7 +79560,9 @@
         "FileDimensions": [
             1280,
             720
-        ]
+        ],
+        "FileSize": 70020,
+        "RepoNo": 0
     },
     "b8532e34-0a77-4922-8688-c490bb85a625.webp": {
         "Characters": [
@@ -81497,6 +81499,67 @@
             188
         ],
         "FileSize": 21456,
+        "RepoNo": 2
+    },
+    "50ff20e6-86b0-4357-b46e-4808dcd275a8.mkv": {
+        "Characters": [
+            "Kaguya"
+        ],
+        "FileExtension": ".mkv",
+        "FileDimensions": [
+            1920,
+            1080
+        ],
+        "FileSize": 5209850,
+        "RepoNo": 2
+    },
+    "931620e3-8c43-4f1e-9753-ebed848b953b.mkv": {
+        "Characters": [
+            "Bronya",
+            "Cecilia",
+            "Cocolia",
+            "Kiana",
+            "Kyuushou",
+            "Mei",
+            "Seele",
+            "Sin",
+            "Sirin",
+            "Theresa"
+        ],
+        "FileExtension": ".mkv",
+        "FileDimensions": [
+            1920,
+            1080
+        ],
+        "FileSize": 84534208,
+        "RepoNo": 2
+    },
+    "c7276cc6-c5cd-4457-a76a-b037bfadab4a.mkv": {
+        "Characters": [
+            "Bronya",
+            "Cocolia",
+            "Seele",
+            "Sin"
+        ],
+        "FileExtension": ".mkv",
+        "FileDimensions": [
+            1280,
+            720
+        ],
+        "FileSize": 21508515,
+        "RepoNo": 2
+    },
+    "d2561c7b-6a7f-4b79-8c97-21b0f66eb28d.mkv": {
+        "Characters": [
+            "Arkria",
+            "Karin"
+        ],
+        "FileExtension": ".mkv",
+        "FileDimensions": [
+            1920,
+            1080
+        ],
+        "FileSize": 50283314,
         "RepoNo": 2
     }
 }
